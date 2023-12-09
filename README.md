@@ -1,2 +1,2 @@
-Data stuctures and algorithms in C
+Data stuctures and algorithms in Go
 
